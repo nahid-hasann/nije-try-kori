@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f0f5;
+  color: #333;
+}
+
+.header{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    box-shadow: 5px 6px 14px -5px rgba(0,0,0,0.75);
+-webkit-box-shadow: 5px 6px 14px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: 5px 6px 14px -5px rgba(0,0,0,0.75);
+}
+
+.nav{
+    margin: auto 0px;
+    display: flex;
+    justify-content:space-;
+    display: block;
+}
+
+.nav a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    color: black;
+}
+
+.h1{
+    color: #4caf4f ;
+}
+
+.hero-section{
+
+   
+
+}
+
+.hero{
+      background-image: url('istockphoto-1319613142-612x612.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 300px 0px;
+    text-align: center;
+    color: white;
+    
+}
+
+
+
+.a{
+    color: #4caf4f;
+    text-decoration: none;
+    background-color: white;
+    padding: 13px;
+    border-radius: 5px;
+}
+
+.card{
+
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 0px;
+
+}
+
+.card-1{
+    box-shadow: 3px 6px 14px -5px rgba(0,0,0,0.75);
+-webkit-box-shadow: 3px 6px 14px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 6px 14px -5px rgba(0,0,0,0.75);
+padding: 30px;
+text-align: center;
+border-radius: 10px;
+}
+
+.card-2{
+    box-shadow: 3px 6px 14px -5px rgba(0,0,0,0.75);
+-webkit-box-shadow: 3px 6px 14px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 6px 14px -5px rgba(0,0,0,0.75);
+padding: 30px;
+text-align: center;
+border-radius: 10px;
+}
+
+.card-3{
+    box-shadow: 3px 6px 14px -5px rgba(0,0,0,0.75);
+-webkit-box-shadow: 3px 6px 14px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 6px 14px -5px rgba(0,0,0,0.75);
+padding: 30px;
+text-align: center;
+border-radius: 10px;
+}
+
+.footer{
+    background-color: black;
+    padding: 20px;
+}
+
+.footer p{
+    color: white;
+    text-align: center;
+}
+
+.icon{
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+    
